@@ -1,0 +1,12 @@
+.table__footer-link {
+  text-decoration: none;
+  color: #487fac;
+  display: flex;
+  flex-direction: column;
+}
+
+.table__footer-link:hover {
+  color: #fff;
+  border-bottom: 3px solid #487fac;
+  padding-bottom: 10px;
+}

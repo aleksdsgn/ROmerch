@@ -1,0 +1,18 @@
+.triangle {
+  /* display: inline-block;
+  background-image: url(../../images/icon_down.svg);
+  width: 20px;
+  height: 10px;
+  background-size: cover;
+  background-repeat: no-repeat; */
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 10px 0 10px;
+  border-color: #487fac transparent transparent transparent;
+  opacity: 0.5;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}

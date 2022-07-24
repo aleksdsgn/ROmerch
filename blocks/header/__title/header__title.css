@@ -1,0 +1,6 @@
+.header__title {
+  display: flex;
+  align-items: baseline;
+  color: #fff;
+  /* border: 1px solid red; */
+}

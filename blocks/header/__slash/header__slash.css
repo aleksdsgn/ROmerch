@@ -1,0 +1,10 @@
+.header__slash {
+  background-image: url(../../../images/slash_blue.svg);
+  width: 30px;
+  height: 35px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* padding-top: 10px; */
+
+  /* border: 1px solid red; */
+}
